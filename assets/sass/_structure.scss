@@ -166,6 +166,7 @@
             // background: #ffffff;
             letter-spacing: 0;
             @include transition(all .3s ease);
+            background-color: #fff;
             &:hover {
                 background-color: $primary;
                 color: #fff;
