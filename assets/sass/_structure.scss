@@ -168,7 +168,7 @@
             @include transition(all .3s ease);
             background-color: #fff;
             &:hover {
-                background-color: $primary;
+                // background-color: $primary;
                 color: #fff;
             }
         }

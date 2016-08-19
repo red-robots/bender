@@ -114,7 +114,7 @@ input[type="radio"],input[type="checkbox"]{margin:0 10px}
 .bender-menu a:hover{color:#00d8da}
 .bender-menu ul li{line-height:26px}
 .bender-menu ul li a{padding:8px 18px;color:#999;font-size:13px;text-transform:none;letter-spacing:0;-webkit-transition:all .3s ease;transition:all .3s ease;background-color:#fff}
-.bender-menu ul li a:hover{background-color:#00d8da;color:#fff}
+.bender-menu ul li a:hover{color:#fff}
 .bender-menu li.bender-current-item>a{color:#00d8da}
 .bender-menu ul li.current-menu-item>a{color:#00d8da}
 .bender-menu>li:last-child>a{padding-right:0}
